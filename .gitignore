@@ -1,0 +1,9 @@
+# Raw data files ko GitHub par push hone se rokein
+*.csv
+*.zip
+
+# Python aur Jupyter ki temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
